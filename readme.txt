@@ -1,5 +1,6 @@
 ************************************************* TO RUN ****************************************************
-
+hosted online at: https://khuranabux.github.io/flappytrash/
+or
 open index.html in a browser
 
 Computer must have some browser installed
